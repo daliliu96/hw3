@@ -10,7 +10,6 @@ function setup() {
 function draw() {
  
 
-  pSize -= 1;
   for (var i = 20; i <= 480; i += 10){
     var startX = 20;
     var startY = i;
